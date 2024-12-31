@@ -1,6 +1,6 @@
-This project is demonstrations porpuses only and is built upon what is taught on a WesBos course lesson.
+This project is demonstrations purposes only and is built upon what is taught on a WesBos course lesson.
 
-It contains the following basics:\
+It contains the following basics:
 
 <div style="border-left: 4px solid #FF5733; padding-left: 10px;">
 
