@@ -21,6 +21,10 @@ It contains the following basics:\
 
 </div>
 
+> [!Warning] > **WARNING:** These instructions are for ManimGL _only_. Trying to use these instructions to install
+
+> [!Note] > **Note**: To install manim directly through pip
+
 <div style="border-left: 4px solid #f1ee15; padding-left: 10px;">
 
 --> In <span style="background-color: #f1ee15; color: #000; padding: 1px; border-radius: 3px; border: 1px solid #f1ee15">JavaScript</span> context:\
